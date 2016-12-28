@@ -20,5 +20,11 @@ namespace Vidly.Controllers
             Movie random = new Movie() { Id=1, Name="Interstellar" };
             return View(random);
         }
+
+        [Route(@"movies/released/{year:regex(\d{4})}/{month:range(1,12)?}")]
+        public ActionResult ByReleaseDate(int? year, int? month)
+        {
+            return Content(year + "/" + month);
+        }
     }
 }
