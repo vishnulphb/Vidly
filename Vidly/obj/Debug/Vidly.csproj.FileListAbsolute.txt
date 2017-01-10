@@ -80,3 +80,8 @@ C:\Users\vpillai\Documents\PersonalProjects\Vidly\Vidly\bin\Microsoft.Owin.Secur
 C:\Users\vpillai\Documents\PersonalProjects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\vpillai\Documents\PersonalProjects\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\vpillai\Documents\PersonalProjects\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\vpillai\Documents\PersonalProjects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\vpillai\Documents\PersonalProjects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\vpillai\Documents\PersonalProjects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToNewsLetter.resources
+C:\Users\vpillai\Documents\PersonalProjects\Vidly\Vidly\obj\Debug\Vidly.Migrations.addMembershipType.resources
+C:\Users\vpillai\Documents\PersonalProjects\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
